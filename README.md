@@ -1,4 +1,4 @@
-<h2 align="center">  😎Hello, I'm Nicolly Lima </h2>
+<h2 align="center">  😎Hello, I'm Maria Kassiane </h2>
  
  - 🎈 Pronouns: She/Her
  - 🖥 Studying Systems Development 
