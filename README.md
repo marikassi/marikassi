@@ -3,7 +3,7 @@
  - 🎈 Pronouns: She/Her
  - 🖥 Studying Systems Development 
  - 📖 High school student 
- - 📬 Contact: 
+
  
  ##
  
